@@ -1,6 +1,6 @@
 ---
 type: lecture
-date: 2021-09-30T12:43:10+4:30 
+date: 2024-03-04T10:00:10+4:30 
 title: Rastgele Değişkenler
 
 # optional
@@ -18,8 +18,6 @@ hide_from_announcments: false
 links:
     - url: https://docs.google.com/presentation/d/e/2PACX-1vToaTR7CLHIyf-y9s50jiakN7vH3VmCdBARQtO2yPy1CnosL6uoLM_lATQKiczkHJi1Woqe7d10qJiR/pub?start=false&loop=false&delayms=60000
       name: slaytlar
-    - url: #
-      name: ders kaydı
     
 
   #  - url: /static_files/presentations/code.zip
