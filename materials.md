@@ -8,14 +8,10 @@ permalink: /materyaller/
 
 ## Kitap
 
-Veri Yapıları ve Algoritmalar
 
-Bilgisayar Mühendisliği ve Yazılım Mühendisliğinde
 
-Toros Rifat ÇÖLKESEN (Ph.D)
 
 ## Ek Ders Materyalleri
 
-http://www.tutorialspoint.com/data_structures_algorithms/index.htm
-
+https://web.stanford.edu/class/archive/cs/cs109/cs109.1192/courseReader.html
 
