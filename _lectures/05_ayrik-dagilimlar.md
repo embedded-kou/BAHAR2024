@@ -1,6 +1,6 @@
 ---
 type: lecture
-date: 2021-09-30T12:43:10+4:30 
+date: 2024-03-11T10:00:10+4:30 
 title: Ayrık Dağılımlar
 
 # optional
@@ -18,8 +18,6 @@ hide_from_announcments: false
 links:
     - url: https://docs.google.com/presentation/d/e/2PACX-1vSQ83CcPZdY7d7g3cM6dIyK-g5uqrlQ4p4_YrlCN7SCOzEdySoXRNQjk6tJOK_I2yJ1jZTh666zoAx-/pub?start=false&loop=false&delayms=60000
       name: slaytlar
-    - url: #
-      name: ders kaydı
     
 
   #  - url: /static_files/presentations/code.zip
